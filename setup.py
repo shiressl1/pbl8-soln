@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="para_cycle",
+    name="pbl8",
     packages=find_packages()
 )
